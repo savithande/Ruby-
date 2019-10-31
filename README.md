@@ -1,2 +1,2 @@
 # Ruby-
-Basic of ruby
+Basics of Ruby
